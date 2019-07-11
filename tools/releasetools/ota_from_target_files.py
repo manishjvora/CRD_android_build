@@ -712,6 +712,9 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   script.Print("  / ____ \| | | | (_| | | | (_) | | (_| |");
   script.Print(" /_/    \_\_| |_|\__,_|_|  \___/|_|\__,_|");
   script.Print("                                         ");
+  script.Print("*************Updated Source**************");
+  script.Print("      https://github.com/manishjvora     ");
+  script.Print("*****************************************");
 
   if OPTIONS.wipe_user_data:
     system_progress -= 0.1
